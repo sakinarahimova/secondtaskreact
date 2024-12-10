@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/secondtaskreact/static/css/main.c2e49012.css",
+    "main.js": "/secondtaskreact/static/js/main.5d5f0642.js",
+    "index.html": "/secondtaskreact/index.html",
+    "main.c2e49012.css.map": "/secondtaskreact/static/css/main.c2e49012.css.map",
+    "main.5d5f0642.js.map": "/secondtaskreact/static/js/main.5d5f0642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e49012.css",
+    "static/js/main.5d5f0642.js"
+  ]
+}
