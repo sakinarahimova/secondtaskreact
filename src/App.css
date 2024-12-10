@@ -1,0 +1,44 @@
+.App{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+}
+.menu-bar{
+  width: 100%;
+  background-color: beige;
+  height: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.about{
+  width: 300px;
+  height: 100px;
+  background-color: rgb(120, 86, 73);
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+.contacts{
+  width: 300px;
+  height: 100px;
+  background-color: rgb(120, 86, 73);
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+.work{
+  width: 300px;
+  height: 100px;
+  background-color: rgb(120, 86, 73);
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.active{
+  color: orangered;
+}
